@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(153, 219, 241);
+  }
+.container {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(8, 20, 8);
+    padding: 30px;
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+}
+

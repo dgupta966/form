@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(226, 234, 236);
+  }
+.top-bar {
+    background-color: crimson;
+    color: whitesmoke;
+    height: 30px;
+
+}
+.form-container {
+    padding: 50px;
+    background-color: rgb(255, 255, 255);
+    margin: 75px; 
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(226, 234, 236);
+  }
+  body span {
+      color : red;
+  }
+  .success {
+      color:rgb(6, 255, 27);
+  }
+  .nav {
+      background-color: red;
+      height: 35px;
+      width:100%;
+      color:white;  
+      position: relative;
+  
+  }

@@ -1,0 +1,71 @@
+.result {
+    background-color: lightgray;
+    color:crimson; 
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.title{
+    font-size: 30px;
+    color: #000000bf;
+}
+
+.input-text-field{
+    margin-right: 15px;
+    border: 1px solid lightgray;
+    padding: 7px;
+}
+
+#word{
+    width: 40%;
+}
+
+.radio-input-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 50px;
+}
+
+.radio-input-container label input:checked{
+    background: orange;
+}
+
+.horizontal-line{
+    margin: 15px 0px;
+    width: 50vw;
+    height: 1px;
+    background: lightgray;
+}
+
+/* .sub-container-2{} */
+
+.search-bar input{
+    width: 25%;
+}
+
+.cb-container{
+    margin: 15px 0px;
+}
+
+.cb-title{
+    background: #d3d3d373;
+    padding: 6px;
+    width: 95%;
+}
+
+.cb-body{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.cb-body label{
+    margin: 5px 0px;
+}

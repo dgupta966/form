@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(226, 234, 236);
+  }
+  body span {
+      color : red;
+  }
+  .success {
+      color:rgb(255, 168, 6);
+  }
+  .nav {
+      background-color: red;
+      height: 35px;
+      color:white;  
+  
+  }
+.form {
+    margin: 50px auto;
+    
+    color:rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: solid 2px white;
+    border-radius: 10px;
+   
+   
+}
