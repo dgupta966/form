@@ -1,5 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./box/app";
 import "./index.css";
-ReactDOM.render(<App />, document.getElementById("root"));
+import Main from "./newWeather/main";
+ReactDOM.render(<Main />, document.getElementById("root"));

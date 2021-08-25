@@ -1,0 +1,17 @@
+body {
+    background-color:#60f0f4b8 ;
+}
+
+body span,h3,h2 {
+    color : rgb(255, 255, 255);
+}
+
+.box {
+    background-color: sienna;
+}
+.paper {
+    background-color: blue;
+}
+.main-grid {
+    color:red;
+}
